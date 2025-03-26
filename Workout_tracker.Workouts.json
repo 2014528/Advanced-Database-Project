@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "67e215a76d1c96f117a6f01e"
+  },
+  "workout_id": 1,
+  "name": "Push-ups",
+  "category": "Strength",
+  "calories_burned_per_min": 7
+},
+{
+  "_id": {
+    "$oid": "67e215b86d1c96f117a6f020"
+  },
+  "workout_id": 2,
+  "name": "Running",
+  "category": "Cardio",
+  "calories_burned_per_min": 10
+},
+{
+  "_id": {
+    "$oid": "67e215f56d1c96f117a6f022"
+  },
+  "workout_id": 2,
+  "name": "Pullups",
+  "category": "Strength",
+  "calories_burned_per_min": 5
+}]

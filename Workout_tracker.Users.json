@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "67e214896d1c96f117a6f015"
+  },
+  "user_id": 1,
+  "name": "Abhishek",
+  "email": "abhi@workout.com",
+  "age": 24,
+  "weight": 85,
+  "height": 180
+},
+{
+  "_id": {
+    "$oid": "67e214f56d1c96f117a6f019"
+  },
+  "user_id": 2,
+  "name": "Sidhant",
+  "email": "sid@workout.com",
+  "age": 32,
+  "weight": 78,
+  "height": 180
+},
+{
+  "_id": {
+    "$oid": "67e215886d1c96f117a6f01b"
+  },
+  "user_id": 3,
+  "name": "Aman",
+  "email": "aman@workout.com",
+  "age": 27,
+  "weight": 96,
+  "height": 180
+}]

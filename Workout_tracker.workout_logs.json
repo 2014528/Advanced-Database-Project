@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67e216176d1c96f117a6f025"
+  },
+  "log_id": 1,
+  "user_id": 1,
+  "workout_id": 2,
+  "duration_mins": 30,
+  "calories_burned": 300,
+  "date": "2025-03-24"
+},
+{
+  "_id": {
+    "$oid": "67e216256d1c96f117a6f027"
+  },
+  "log_id": 2,
+  "user_id": 2,
+  "workout_id": 1,
+  "duration_mins": 20,
+  "calories_burned": 140,
+  "date": "2025-03-23"
+}]
